@@ -1,11 +1,11 @@
 # MahderAI App: LLM Fine-tuning Data Formats
 
-This repository showcases the required data formats for fine-tuning Large Language Models (LLMs) using the MahderAI App. For each supported task, you'll find a sample CSV file demonstrating the input format needed for training within the MahderAI App. A corresponding `.npy` file illustrates the pre-processed data format (after tokenization and other transformations) suitable for inference on your local machine after downloading your fine-tuned checkpoints.
+This repository showcases the required data formats for fine-tuning Large Language Models (LLMs) using the MahderAI App. For each supported task, you'll find a sample CSV file demonstrating the input format needed for training within the MahderAI App. A corresponding `.npy` file illustrates the processed data suitable for inference on your local machine after downloading your fine-tuned checkpoints.
 
 **Important:**
 
 *   **Training (MahderAI App):** Use the **CSV file format** as input for training your models *directly on the MahderAI platform.*
-*   **Inference (Local Machine):** Use the **`.npy` file format** *after* downloading your fine-tuned model checkpoints from MahderAI. This format represents the pre-processed data that the model expects for inference.
+*   **Inference (Local Machine):** Use the **`.npy` file format** *after* downloading your fine-tuned model checkpoints from MahderAI. This format represents the  data that the model expects for inference for your specific task.
 
 ## Supported Tasks and Data Formats:
 
