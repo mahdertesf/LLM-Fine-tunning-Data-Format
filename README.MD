@@ -1,25 +1,39 @@
-# LLM Fine-tuning Data Formats
+# MahderAI App: LLM Fine-tuning Data Formats
 
-This repository provides examples of data formats for various LLM fine-tuning tasks at MahderAI App. Each task includes a sample CSV file demonstrating the required input format and a corresponding `.npy` file showing the processed data format to be fed into the model. **Note: You will use the .csv file format only on the MahderAI app for training and use the .npy format for inference on your local machine after downloading your fine-tuned checkpoints.**
+This repository showcases the required data formats for fine-tuning Large Language Models (LLMs) using the MahderAI App. For each supported task, you'll find a sample CSV file demonstrating the input format needed for training within the MahderAI App. A corresponding `.npy` file illustrates the pre-processed data format (after tokenization and other transformations) suitable for inference on your local machine after downloading your fine-tuned checkpoints.
 
-## Task-Specific Data Formats
+**Important:**
+
+*   **Training (MahderAI App):** Use the **CSV file format** as input for training your models *directly on the MahderAI platform.*
+*   **Inference (Local Machine):** Use the **`.npy` file format** *after* downloading your fine-tuned model checkpoints from MahderAI. This format represents the pre-processed data that the model expects for inference.
+
+## Supported Tasks and Data Formats:
+
+Here's a breakdown of the data formats for each task:
 
 *   **Binary Classification:**
-    *   [Input Data Format (CSV)](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/binary_classification/binary_format.csv)
-    *   [Processed Data Format (Numpy)](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/binary_classification/binary_processed_format.npy)
+    *   **CSV Input (for MahderAI App training):** [binary_format.csv](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/binary_classification/binary_format.csv)
+    *   **Numpy Processed Data (for local inference):** [binary_processed_format.npy](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/binary_classification/binary_processed_format.npy)
 
 *   **Multi-Class Classification:**
-    *   [Input Data Format (CSV)](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/Multi_class_classification/multi_class_format.csv)
-    *   [Processed Data Format (Numpy)](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/Multi_class_classification/multiclass_processed_format.npy)
+    *   **CSV Input (for MahderAI App training):** [multi_class_format.csv](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/Multi_class_classification/multi_class_format.csv)
+
+        *   **Note:** The sample data uses the following label mapping:
+            *   0: Technology
+            *   1: Sports
+            *   2: Politics
+            *   3: Entertainment
+            *   4: Business
+    *   **Numpy Processed Data (for local inference):** [multiclass_processed_format.npy](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/Multi_class_classification/multiclass_processed_format.npy)
 
 *   **Chatbot:**
-    *   [Input Data Format (CSV)](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/chatbot/chatbot_format.csv)
-    *   [Processed Data Format (Numpy)](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/chatbot/chatbot_processed_format.npy)
+    *   **CSV Input (for MahderAI App training):** [chatbot_format.csv](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/chatbot/chatbot_format.csv)
+    *   **Numpy Processed Data (for local inference):** [chatbot_processed_format.npy](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/chatbot/chatbot_processed_format.npy)
 
 *   **Translation:**
-    *   [Input Data Format (CSV)](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/translation/translation_format.csv)
-    *   [Processed Data Format (Numpy)](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/translation/translate_processed_format.npy)
+    *   **CSV Input (for MahderAI App training):** [translation_format.csv](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/translation/translation_format.csv)
+    *   **Numpy Processed Data (for local inference):** [translate_processed_format.npy](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/translation/translate_processed_format.npy)
 
 *   **Extractive Question Answering:**
-    *   [Input Data Format (CSV)](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/extractive_question_answering/extractive_format.csv)
-    *   [Processed Data Format (Numpy)](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/extractive_question_answering/extractive_processed_format.npy)
+    *   **CSV Input (for MahderAI App training):** [extractive_format.csv](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/extractive_question_answering/extractive_format.csv)
+    *   **Numpy Processed Data (for local inference):** [extractive_processed_format.npy](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/extractive_question_answering/extractive_processed_format.npy)
