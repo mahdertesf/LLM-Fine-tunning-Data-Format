@@ -1,0 +1,17 @@
+[
+  {"source_text": "Hello, how are you?", "target_text": "Hola, ¿cómo estás?"},
+  {"source_text": "Good morning!", "target_text": "¡Buenos días!"},
+  {"source_text": "What is your name?", "target_text": "¿Cómo te llamas?"},
+  {"source_text": "Thank you very much.", "target_text": "Muchas gracias."},
+  {"source_text": "You're welcome.", "target_text": "De nada."},
+  {"source_text": "Excuse me.", "target_text": "Perdón."},
+  {"source_text": "I don't understand.", "target_text": "No entiendo."},
+  {"source_text": "Where is the bathroom?", "target_text": "¿Dónde está el baño?"},
+  {"source_text": "How much does it cost?", "target_text": "¿Cuánto cuesta?"},
+  {"source_text": "Please speak slowly.", "target_text": "Por favor, hable más despacio."},
+  {"source_text": "I am from the United States.", "target_text": "Soy de los Estados Unidos."},
+  {"source_text": "Can you help me?", "target_text": "¿Puede ayudarme?"},
+  {"source_text": "I need a doctor.", "target_text": "Necesito un médico."},
+  {"source_text": "What time is it?", "target_text": "¿Qué hora es?"},
+  {"source_text": "Goodbye!", "target_text": "¡Adiós!"}
+]

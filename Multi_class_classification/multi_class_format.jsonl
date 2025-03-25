@@ -1,0 +1,17 @@
+[
+    {"text": "Apple unveils its new iPhone with advanced camera technology and improved battery life.", "label": 0},
+    {"text": "The Lakers defeat the Warriors in a thrilling NBA finals game.", "label": 1},
+    {"text": "The president announces new economic policies aimed at boosting job growth.", "label": 2},
+    {"text": "Taylor Swift releases her new album, breaking all streaming records.", "label": 3},
+    {"text": "Stock market surges after positive economic data release.", "label": 4},
+    {"text": "Scientists discover a new exoplanet that could potentially support life.", "label": 0},
+    {"text": "The Olympics kick off with a spectacular opening ceremony in Tokyo.", "label": 1},
+    {"text": "The Senate debates a controversial bill on healthcare reform.", "label": 2},
+    {"text": "The new Marvel movie becomes the highest-grossing film of all time.", "label": 3},
+    {"text": "Amazon reports record profits for the quarter, driven by online sales.", "label": 4},
+    {"text": "AI is rapidly changing the landscape of software development.", "label": 0},
+    {"text": "Lionel Messi wins his seventh Ballon d'Or award.", "label": 1},
+    {"text": "The government faces increasing pressure to address climate change.", "label": 2},
+    {"text": "A new streaming service launches, offering a vast library of movies and TV shows.", "label": 3},
+    {"text": "Elon Musk announces plans to colonize Mars by 2050.", "label": 0}
+  ]
