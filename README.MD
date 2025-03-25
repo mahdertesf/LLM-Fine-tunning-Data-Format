@@ -1,6 +1,6 @@
 # LLM Fine-tuning Data Formats
 
-This repository provides examples of data formats for various LLM fine-tuning tasks at MahderAI App. Each task includes a sample CSV file demonstrating the required input format and a corresponding `.npy` file showing the processed data format to be fed into the model. **Note: You will use the .csv file format only on the MahderAI app.**
+This repository provides examples of data formats for various LLM fine-tuning tasks at MahderAI App. Each task includes a sample CSV file demonstrating the required input format and a corresponding `.npy` file showing the processed data format to be fed into the model. **Note: You will use the .csv file format only on the MahderAI app for training and use the .npy format for inference on your local machine after downloading your fine-tuned checkpoints.**
 
 ## Task-Specific Data Formats
 
