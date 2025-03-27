@@ -13,9 +13,9 @@ Here's a breakdown of the data formats for each task:
 
 
 *   **Classification:**
-    *   **JSONL Input (for MahderAI App training):** [https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/classification/classification.jsonl])
+    *   **JSONL Input (for MahderAI App training):** [Classification.jsonl](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/classification/classification.jsonl)
       
-    *   **Numpy Processed Data (for local inference):** [multiclass_processed_format.npy](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/Multi_class_classification/multiclass_processed_format.npy)
+    *   **Numpy Processed Data (for local inference):** [Classification_processed_format.npy](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/classification/classification.npy)
 
 *   **Chatbot:**
     *   **JSONL Input (for MahderAI App training):** [chatbot_format.jsonl](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/chatbot/chatbot_format.jsonl)
