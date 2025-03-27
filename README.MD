@@ -11,18 +11,10 @@ This repository showcases the required data formats for fine-tuning Large Langua
 
 Here's a breakdown of the data formats for each task:
 
-*   **Binary Classification:**
-    *   **JSONL Input (for MahderAI App training):** [binary_format.jsonl](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/binary_classification/binary_format.jsonl)
-    *   **Numpy Processed Data (for local inference):** [binary_processed_format.npy](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/binary_classification/binary_processed_format.npy)
 
-*   **Multi-Class Classification:**
-    *   **JSONL Input (for MahderAI App training):** [multi_class_format.jsonl](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/Multi_class_classification/multi_class_format.jsonl)
-        *   **Note:** The sample data uses the following label mapping:
-            *   0: Technology
-            *   1: Sports
-            *   2: Politics
-            *   3: Entertainment
-            *   4: Business
+*   **Classification:**
+    *   **JSONL Input (for MahderAI App training):** [https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/classification/classification.jsonl])
+      
     *   **Numpy Processed Data (for local inference):** [multiclass_processed_format.npy](https://github.com/mahdertesf/LLM-Fine-tunning-Data-Format/blob/main/Multi_class_classification/multiclass_processed_format.npy)
 
 *   **Chatbot:**
