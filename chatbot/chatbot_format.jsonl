@@ -1,17 +1,15 @@
-[
-  {"prompt": "Hello, how are you doing today?", "response": "I'm doing well, thank you for asking. How about you?"},
-  {"prompt": "What is the capital of France?", "response": "The capital of France is Paris."},
-  {"prompt": "Can you tell me a joke?", "response": "Why don't scientists trust atoms? Because they make up everything!"},
-  {"prompt": "What is the meaning of life?", "response": "That's a philosophical question with no easy answer. It's up to each individual to find meaning in their own life."},
-  {"prompt": "What are your favorite colors?", "response": "As an AI, I don't have personal preferences like favorite colors.  But I can tell you that blue and green are often associated with calmness and nature."},
-  {"prompt": "Write a short poem about spring.", "response": "The world awakes, in colors bright,\nFlowers bloom, a welcome sight.\nBirds sing sweetly in the air,\nSpring's gentle touch, beyond compare."},
-  {"prompt": "How does photosynthesis work?", "response": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to create oxygen and energy in the form of sugar."},
-  {"prompt": "What is the airspeed velocity of an unladen swallow?", "response": "African or European?"},
-  {"prompt": "Recommend a good science fiction book.", "response": "I would recommend 'Dune' by Frank Herbert. It's a classic science fiction novel with a complex and fascinating world."},
-  {"prompt": "What are some tips for getting better sleep?", "response": "Try to maintain a regular sleep schedule, create a relaxing bedtime routine, and avoid caffeine before bed."},
-  {"prompt": "Summarize the plot of 'Hamlet'.", "response": "Hamlet is a play about a prince of Denmark who seeks revenge on his uncle Claudius, who murdered Hamlet's father and took the throne."},
-  {"prompt": "Tell me about the history of the internet.", "response": "The internet began as a US Department of Defense project called ARPANET in the late 1960s. It evolved over time, incorporating technologies like TCP/IP and the World Wide Web."},
-  {"prompt": "What's the difference between AI and machine learning?", "response": "Machine learning is a subset of AI. AI is a broad concept encompassing any technique that enables computers to mimic human intelligence, while machine learning uses algorithms to learn from data without explicit programming."},
-  {"prompt": "Give me some travel advice for visiting Italy.", "response": "Research the best time to visit based on your interests, learn some basic Italian phrases, and be prepared for crowds at popular tourist sites."},
-  {"prompt": "What are the main benefits of exercise?", "response": "Exercise can improve your mood, boost your energy levels, strengthen your bones and muscles, and reduce your risk of chronic diseases."}
-]
+{"prompt": "Hello, how are you doing today?", "response": "I'm doing well, thank you for asking. How about you?"}
+{"prompt": "What is the capital of France?", "response": "The capital of France is Paris."}
+{"prompt": "Can you tell me a joke?", "response": "Why don't scientists trust atoms? Because they make up everything!"}
+{"prompt": "What is the meaning of life?", "response": "That's a philosophical question with no easy answer. It's up to each individual to find meaning in their own life."}
+{"prompt": "What are your favorite colors?", "response": "As an AI, I don't have personal preferences like favorite colors.  But I can tell you that blue and green are often associated with calmness and nature."}
+{"prompt": "Write a short poem about spring.", "response": "The world awakes, in colors bright,\nFlowers bloom, a welcome sight.\nBirds sing sweetly in the air,\nSpring's gentle touch, beyond compare."}
+{"prompt": "How does photosynthesis work?", "response": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to create oxygen and energy in the form of sugar."}
+{"prompt": "What is the airspeed velocity of an unladen swallow?", "response": "African or European?"}
+{"prompt": "Recommend a good science fiction book.", "response": "I would recommend 'Dune' by Frank Herbert. It's a classic science fiction novel with a complex and fascinating world."}
+{"prompt": "What are some tips for getting better sleep?", "response": "Try to maintain a regular sleep schedule, create a relaxing bedtime routine, and avoid caffeine before bed."}
+{"prompt": "Summarize the plot of 'Hamlet'.", "response": "Hamlet is a play about a prince of Denmark who seeks revenge on his uncle Claudius, who murdered Hamlet's father and took the throne."}
+{"prompt": "Tell me about the history of the internet.", "response": "The internet began as a US Department of Defense project called ARPANET in the late 1960s. It evolved over time, incorporating technologies like TCP/IP and the World Wide Web."}
+{"prompt": "What's the difference between AI and machine learning?", "response": "Machine learning is a subset of AI. AI is a broad concept encompassing any technique that enables computers to mimic human intelligence, while machine learning uses algorithms to learn from data without explicit programming."}
+{"prompt": "Give me some travel advice for visiting Italy.", "response": "Research the best time to visit based on your interests, learn some basic Italian phrases, and be prepared for crowds at popular tourist sites."}
+{"prompt": "What are the main benefits of exercise?", "response": "Exercise can improve your mood, boost your energy levels, strengthen your bones and muscles, and reduce your risk of chronic diseases."}

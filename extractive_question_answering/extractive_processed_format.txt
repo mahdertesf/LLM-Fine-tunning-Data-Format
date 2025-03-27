@@ -1,0 +1,1 @@
+"Instruction:\nAnswer the following question based on the text: The Amazon rainforest is the world's largest tropical rainforest, covering an area of over 7 million square kilometers.\nQuestion: What is the Amazon rainforest?\n\nResponse:\nthe world's largest tropical rainforest"

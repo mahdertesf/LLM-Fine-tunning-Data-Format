@@ -1,0 +1,1 @@
+'Instruction:\nRespond to the following message: What is the capital of France?\n\nResponse:\nThe capital of France is Paris.'

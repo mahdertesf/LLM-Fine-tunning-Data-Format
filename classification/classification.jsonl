@@ -1,17 +1,15 @@
-[
-  {"text": "Apple unveils its new iPhone with advanced camera technology and improved battery life.", "label": "Tech"},
-  {"text": "The Lakers defeat the Warriors in a thrilling NBA finals game.", "label": "Sports"},
-  {"text": "The president announces new economic policies aimed at boosting job growth.", "label": "Politics"},
-  {"text": "Taylor Swift releases her new album, breaking all streaming records.", "label": "Entertainment"},
-  {"text": "Stock market surges after positive economic data release.", "label": "Business"},
-  {"text": "Scientists discover a new exoplanet that could potentially support life.", "label": "Tech"},
-  {"text": "The Olympics kick off with a spectacular opening ceremony in Tokyo.", "label": "Sports"},
-  {"text": "The Senate debates a controversial bill on healthcare reform.", "label": "Politics"},
-  {"text": "The new Marvel movie becomes the highest-grossing film of all time.", "label": "Entertainment"},
-  {"text": "Amazon reports record profits for the quarter, driven by online sales.", "label": "Business"},
-  {"text": "AI is rapidly changing the landscape of software development.", "label": "Tech"},
-  {"text": "Lionel Messi wins his seventh Ballon d'Or award.", "label": "Sports"},
-  {"text": "The government faces increasing pressure to address climate change.", "label": "Politics"},
-  {"text": "A new streaming service launches, offering a vast library of movies and TV shows.", "label": "Entertainment"},
-  {"text": "Elon Musk announces plans to colonize Mars by 2050.", "label": "Tech"}
-]
+{"text": "Apple unveils its new iPhone with advanced camera technology and improved battery life.", "label": "Tech"}
+{"text": "The Lakers defeat the Warriors in a thrilling NBA finals game.", "label": "Sports"}
+{"text": "The president announces new economic policies aimed at boosting job growth.", "label": "Politics"}
+{"text": "Taylor Swift releases her new album, breaking all streaming records.", "label": "Entertainment"}
+{"text": "Stock market surges after positive economic data release.", "label": "Business"}
+{"text": "Scientists discover a new exoplanet that could potentially support life.", "label": "Tech"}
+{"text": "The Olympics kick off with a spectacular opening ceremony in Tokyo.", "label": "Sports"}
+{"text": "The Senate debates a controversial bill on healthcare reform.", "label": "Politics"}
+{"text": "The new Marvel movie becomes the highest-grossing film of all time.", "label": "Entertainment"}
+{"text": "Amazon reports record profits for the quarter, driven by online sales.", "label": "Business"}
+{"text": "AI is rapidly changing the landscape of software development.", "label": "Tech"}
+{"text": "Lionel Messi wins his seventh Ballon d'Or award.", "label": "Sports"}
+{"text": "The government faces increasing pressure to address climate change.", "label": "Politics"}
+{"text": "A new streaming service launches, offering a vast library of movies and TV shows.", "label": "Entertainment"}
+{"text": "Elon Musk announces plans to colonize Mars by 2050.", "label": "Tech"}
