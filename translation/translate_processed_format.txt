@@ -1,1 +1,1 @@
-'Instruction:\nTranslate the following text into English: Hello, how are you?\n\nResponse:\nHola, ¿cómo estás?'
+'Instruction:\nTranslate the following text into English:Hola, ¿cómo estás?\n\nResponse:\n Hello, how are you?'
